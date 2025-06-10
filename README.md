@@ -48,8 +48,6 @@ failure_label or RUL
 
 predictive-maintenance-forecast/
 ├── maintenance_modeling.ipynb — Model training and evaluation notebook
-├── dashboard.py — Streamlit app for visualization
-├── sensor_data.csv — Time-series dataset
 ├── README.md — Project documentation (this file)
 
 ## Author
